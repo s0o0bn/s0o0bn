@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=c2dfee&fontSize=80)
-
-<div align="center"><h2> 👋 Hi, I'm soobin. </h2></div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=fafafa&fontSize=80)
 
 <div align="center">
+
+<h2> 👋 Hi, I'm soobin. </h2>
 
 <h3> ✨ Tech Stack ✨ </h3>
 
@@ -29,11 +29,13 @@
 
 </div>
 
+<!--
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0o0bn&show-icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0o0bn&show-icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+-->
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=fed821&height=150&section=footer)
 
