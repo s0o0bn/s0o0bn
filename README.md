@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=fafafa&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&fontColor=fafafa&fontSize=80)
 
 <div align="center">
 
-<h2> 👋 Hi, I'm soobin. </h2>
+## 👋 Hi, I'm soobin.
 
-<h3> ✨ Tech Stack ✨ </h3>
+### ✨ Tech Stack ✨
 
 <p>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<h3> 🛠 Tool 🛠 </h3>
+### 🛠 Tool 🛠
 
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
