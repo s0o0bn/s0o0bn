@@ -43,7 +43,7 @@
 </div>
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=fed821&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=fed821&height=200&section=footer)
 
 <!--
 **s0o0bn/s0o0bn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
