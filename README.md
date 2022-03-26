@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=ffffff&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3ab1ed&height=250&section=header&text=Soobin%20Yoon&fontColor=ffffff&fontSize=70&fontAlign=75&fontAlignY=53)
 
 # 👋 Hi there, I'm soobin.
 
@@ -7,9 +7,7 @@
 - ✨ I'm now intereted in NodeJS, Spring and Docker.
 - ❣️ I like 🖥, but also 🎥 and 🎧.
 
-<div align="center">
-
-### ✨ Tech Stack ✨
+### ✨ Tech Stack
 
 <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -24,7 +22,7 @@
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
 </p>
 
-### 🛠 Tool 🛠
+### 🛠 Tool
 
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -34,8 +32,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-</div>
-
 <!--
 <div align="center">
 
@@ -44,7 +40,7 @@
 </div>
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=fed821&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=fed821&height=150&section=footer)
 
 <!--
 **s0o0bn/s0o0bn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
