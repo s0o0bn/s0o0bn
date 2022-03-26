@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=ffffff&fontSize=80)
 
-<div align="center">
-
 # 👋 Hi there, I'm soobin.
 
 - 🌱 I'm currently learning backend development.
 - 🚀 I enjoy learning something new and trying it.
 - ✨ I'm now intereted in NodeJS, Spring and Docker.
 - ❣️ I like 🖥, but also 🎥 and 🎧.
+
+<div align="center">
 
 ### ✨ Tech Stack ✨
 
