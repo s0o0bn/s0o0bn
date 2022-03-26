@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=fafafa&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=3ab1ed&height=300&section=header&text=Soobin%20Yoon&fontColor=ffffff&fontSize=80)
 
 <div align="center">
 
-## 👋 Hi, I'm soobin.
+# 👋 Hi there, I'm soobin.
 
-🎥와 🎧에 진심인 개발자입니다.<br>
-현재 백엔드 서버 개발을 공부하고 있습니다.<br>
-새로운 기술과 프레임워크에 대해 배우고, 실제로 사용해 보는 것을 좋아합니다.<br>
+- 🌱 I'm currently learning backend development.
+- 🚀 I enjoy learning something new and trying it.
+- ✨ I'm now intereted in NodeJS, Spring and Docker.
+- ❣️ I like 🖥, but also 🎥 and 🎧.
 
 ### ✨ Tech Stack ✨
 
@@ -43,7 +44,7 @@
 </div>
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=fed821&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=fed821&height=150&section=footer)
 
 <!--
 **s0o0bn/s0o0bn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
