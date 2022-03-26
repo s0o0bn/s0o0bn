@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning backend development.
 - 🚀 I enjoy learning something new and trying it.
-- ✨ I'm now intereted in NodeJS, Spring and Docker.
+- ✨ I'm now intereted in NodeJS, Express and Docker.
 - ❣️ I like 🖥, but also 🎥 and 🎧.
 
 ### ✨ Tech Stack
@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ### 🛠 Tool
