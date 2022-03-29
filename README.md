@@ -9,6 +9,8 @@
 
 ### ✨ Tech Stack
 
+Tech Stacks that I've used at least once.
+
 <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -24,6 +26,8 @@
 </p>
 
 ### 🛠 Tool
+
+I can handle these tools.
 
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
