@@ -2,9 +2,8 @@
 
 # 👋 Hi there, I'm soobin.
 
-- 🌱 I'm currently learning backend development.
+- 🌱 I'm currently learning NodeJS, Express and Docker.
 - 🚀 I enjoy learning something new and trying it.
-- ✨ I'm now intereted in NodeJS, Express and Docker.
 - ❣️ I like 🖥, but also 🎥 and 🎧.
 
 ### ✨ Tech Stack
