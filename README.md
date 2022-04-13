@@ -9,10 +9,11 @@
 </div>
 
 <div align=center>
-🌱 NodeJs, Spring, MySQL, Docker
+🌱 NodeJs, Express, MySQL
 </div>
 
 <div align=center>
+
 ### ✨ Contact
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://s0o0bn.notion.site/s0o0bn-4eebe964b79b4296b3126a0689886a7f)](https://s0o0bn.notion.site/s0o0bn-4eebe964b79b4296b3126a0689886a7f)
