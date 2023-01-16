@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-🌱 React, NodeJs, Express, Spring, MySQL
+🌱 Spring, NodeJs, Express, React, SQL, Jenkins
 </div>
 <br>
 <div align=center>
