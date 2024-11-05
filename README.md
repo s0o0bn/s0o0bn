@@ -8,7 +8,7 @@
 <a href="mailto:s0o0bn.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
-<a href="https://s0o0bn.notion.site/6d64b3073d0d4da1b430fb5692140b87" target="_blank">
+<a href="https://s0o0bn.notion.site/9da8831aa98e46f9bdb9724a36d88dd9" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
 
