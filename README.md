@@ -4,6 +4,14 @@
 * ✨ 클린 코드를 지향하며, 가독성 좋은 코드를 작성하기 위해 고민합니다.
 * 📝 다양한 기술을 공부하는 것을 좋아하고, 새로운 것도 빠르게 익혀 활용할 수 있습니다.
 
+**💌 Contact**  
+<a href="mailto:s0o0bn.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+</a>
+<a href="https://s0o0bn.notion.site/6d64b3073d0d4da1b430fb5692140b87" target="_blank">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+</a>
+
 **📚 Tech Stack**
 <div> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
