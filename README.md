@@ -1,8 +1,9 @@
 ### 👋 Hi, there
 
 * ❣️ 음악과 영화를 좋아하는 백엔드 개발자 윤수빈입니다.
-* ✨ 클린 코드를 지향하며, 가독성 좋은 코드를 작성하기 위해 고민합니다.
+* 💪 도전적인 문제를 해결하며 이전에 경험하지 못한 것을 배워가는 걸 선호합니다.
 * 📝 다양한 기술을 공부하는 것을 좋아하고, 새로운 것도 빠르게 익혀 활용할 수 있습니다.
+* ✨ 클린 코드를 지향하며, 가독성 좋은 코드를 작성하기 위해 고민합니다.
 
 **💌 Contact**  
 <a href="mailto:s0o0bn.dev@gmail.com" target="_blank">
@@ -14,7 +15,8 @@
 
 **📚 Tech Stack**
 <div> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   
